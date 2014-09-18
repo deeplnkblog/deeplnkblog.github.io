@@ -1,0 +1,14 @@
+name: 딥링크 공식 블로그
+description: 딥링크에 대한 소식, 공지를 블로깅합니다.
+meta_description: "딥링크 공식 블로그 - 딥링크에 대한 소식, 공지를 블로깅합니다."
+baseurl: /
+
+markdown: redcarpet
+highlighter: true
+logo: false
+paginate: 15
+permalink: /:year-:month-:day/:title.html
+
+# Details for the RSS feed generator
+url:            'http://blog.deeplnk.com'
+author:         '딥링크'
