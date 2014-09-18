@@ -1,7 +1,7 @@
 /* Rosario. I've added and changed few things. Feel free to change it as you like */
 
 /* Font size of 2.0 is too big, I'll reduce it */
-body {font-size: 1.9rem;}
+body {  font-family: "나눔고딕", "NanumGothic", "맑은 고딕", "Malgun Gothic", Arial, sans-serif; font-size: 1.9rem;}
 
 /* Adding some text shadow*/
 .site-head {text-shadow: 2px 2px #234;}
