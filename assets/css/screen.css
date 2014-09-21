@@ -544,7 +544,7 @@ margin on the iframe, cause it breaks stuff. */
     height: auto;
 }
 
-.post-content a, .post-header a {
+.post-content a, .post-header a, article p a {
     text-decoration: none;
     border-bottom: 1px solid;
 }
